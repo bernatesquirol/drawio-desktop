@@ -1,5 +1,5 @@
 {
-  "name": "draw.io",
+  "name": "flow.io",
   "version": "9.3.1",
   "description": "draw.io desktop",
   "main": "electron.js",
