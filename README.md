@@ -1,5 +1,11 @@
 # flowio - Guia d'usuari
 
+https://bernatesquirol.github.com/flowio-desktop
+
+Aquest projecte inclou:
+
+[flowio-desktop](https://github.com/bernatesquirol/flowio-desktop) [flowio-core](https://github.com/bernatesquirol/flowio-core) [flowio](https://github.com/bernatesquirol/flowio) [flowio-docs](https://github.com/bernatesquirol/flowio-docs/) 
+
 **TL;DR**: creat al PDU de l'AMB, flowio es una eina per crear diagrames jeràrquics per documentar estudis fets amb dades.
 
 - flowio: [https://sourceforge.net/projects/flowio/files/flowio](https://sourceforge.net/projects/flowio/files/flowio)
@@ -25,13 +31,13 @@ Cal descarregar-se el programa desde aquest [enllaç](https://sourceforge.net/pr
 
 ⚠⚠⚠⚠ 
 
-Atenció!!! El primer cop que s'obra el programa, cal decidir una carpeta on es guardaran tots els diagrames que formin part de l'entorn flowio. Per fer això cal anar a flow.io > Change diagrams folder i seleccionar la carpeta desitjada.![url-params](.\doc\url-params.png) 
+Atenció!!! El primer cop que s'obra el programa, cal decidir una carpeta on es guardaran tots els diagrames que formin part de l'entorn flowio. Per fer això cal anar a flow.io > Change diagrams folder i seleccionar la carpeta desitjada.![url-params](.\docs\url-params.png) 
 
 ⚠⚠⚠⚠
 
 #### Interfície d'usuari
 
-![Sin título-3](.\doc\UI-drawio.png)
+![Sin título-3](.\docs\UI-drawio.png)
 
 La UI de drawio és senzilla, consta de 3 parts:
 
@@ -55,7 +61,7 @@ ATENCIÓ!! Per crear diagrames nous és molt important començar amb File > New,
 
 ⚠⚠⚠⚠
 
-Totes les dades es generen a partir dels diagrames. Hi ha uns *diagrames standard* a la llibreria flowio creats com a base d'on crear diagrames.![flowio-lib](.\doc\flowio-lib.png)
+Totes les dades es generen a partir dels diagrames. Hi ha uns *diagrames standard* a la llibreria flowio creats com a base d'on crear diagrames.![flowio-lib](.\docs\flowio-lib.png)
 
 Hi ha tres tipus de *diagrames standard* que podem fer:
 
@@ -87,7 +93,7 @@ El fet de tenir tots els estudis interrelacionat físicament (els diagrames fan 
 
   Si es va a flow.io > Expand diagram
 
-![expand-diagram](.\doc\expand-diagram.png)
+![expand-diagram](.\docs\expand-diagram.png)
 
 - flowio-docs
 
