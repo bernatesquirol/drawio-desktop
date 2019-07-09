@@ -37,7 +37,7 @@ Atenció!!! El primer cop que s'obra el programa, cal decidir una carpeta on es 
 
 #### Interfície d'usuari
 
-![Sin título-3](.\docs\UI-drawio.png)
+![Sin título-3](./docs/UI-drawio.png)
 
 La UI de drawio és senzilla, consta de 3 parts:
 
