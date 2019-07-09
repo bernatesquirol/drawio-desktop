@@ -31,7 +31,7 @@ Cal descarregar-se el programa desde aquest [enllaç](https://sourceforge.net/pr
 
 ⚠⚠⚠⚠ 
 
-Atenció!!! El primer cop que s'obra el programa, cal decidir una carpeta on es guardaran tots els diagrames que formin part de l'entorn flowio. Per fer això cal anar a flow.io > Change diagrams folder i seleccionar la carpeta desitjada.![url-params](.\docs\url-params.png) 
+Atenció!!! El primer cop que s'obra el programa, cal decidir una carpeta on es guardaran tots els diagrames que formin part de l'entorn flowio. Per fer això cal anar a flow.io > Change diagrams folder i seleccionar la carpeta desitjada.![url-params](./docs/url-params.png) 
 
 ⚠⚠⚠⚠
 
@@ -61,7 +61,7 @@ ATENCIÓ!! Per crear diagrames nous és molt important començar amb File > New,
 
 ⚠⚠⚠⚠
 
-Totes les dades es generen a partir dels diagrames. Hi ha uns *diagrames standard* a la llibreria flowio creats com a base d'on crear diagrames.![flowio-lib](.\docs\flowio-lib.png)
+Totes les dades es generen a partir dels diagrames. Hi ha uns *diagrames standard* a la llibreria flowio creats com a base d'on crear diagrames.![flowio-lib](./docs/flowio-lib.png)
 
 Hi ha tres tipus de *diagrames standard* que podem fer:
 
@@ -93,7 +93,7 @@ El fet de tenir tots els estudis interrelacionat físicament (els diagrames fan 
 
   Si es va a flow.io > Expand diagram
 
-![expand-diagram](.\docs\expand-diagram.png)
+![expand-diagram](./docs/expand-diagram.png)
 
 - flowio-docs
 
